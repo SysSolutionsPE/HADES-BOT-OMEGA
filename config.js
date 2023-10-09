@@ -8,31 +8,31 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['5212412377467', 'CREADOR', true],
-  ['5212411233838', 'CREADOR', true],
-  ['5212411719888', 'CREADOR', true],
-  ['5212414147874', 'CREADOR', true]
+  ['51902679067', 'CREADOR', true],
+  ['51902679067', 'CREADOR', true],
+  ['51902679067', 'CREADOR', true],
+  ['51902679067', 'CREADOR', true]
   
 ];
 
-global.suittag = ['5212414147874'];
-global.prems = ['5212414147874'];
+global.suittag = ['51902679067'];
+global.prems = ['51902679067'];
 
-global.packname = '乂✰ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ✰乂';
-global.author = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍';
+global.packname = '乂SysSolutions乂';
+global.author = '©SysSolutions﹏✍';
 global.vs = '1.10.90';
 global.version = vs
-global.gt = '乂✰ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ✰乂';
+global.gt = '乂SysSolutions乂';
 global.hadesbot = gt
-global.yt = 'https://youtu.be/aPu9wQi-z8U';
+global.yt = 'https://youtu.be/c/SysSolutionsPeru';
 global.youtube = yt
 global.ig = 'https://www.instagram';
 global.hadesig = ig
-global.md = 'https://github.com/OFC-YOVANI/HADES-BOT-OMEGA.git';
+global.md = 'https://github.com/SysSolutionsPE/HADES-BOT-OMEGA.git';
 global.botxdf = md
-global.nn = 'https://chat.whatsapp.com/KlAYxPxLAkSGOyZxeXXZkt';
+global.nn = 'https://whatsapp.com/channel/0029Va6cqdDHQbS1VZH2VS1e';
 global.nngrupo = nn
-global.nnn = 'https://chat.whatsapp.com/DDm7HC6e5MF9qcdLqB22RQ';
+global.nnn = 'https://whatsapp.com/channel/0029Va6cqdDHQbS1VZH2VS1e';
 global.nnngrupo = nnn
 global.paypal = 'https://pay'
 global.donar = paypal
@@ -51,8 +51,8 @@ global.envio = eeg
 global.eg = '*🍀ʀᴇsᴜʟᴛᴀᴅᴏ ᴇɴᴄᴏɴᴛʀᴀᴅᴏ✨*';
 global.exito = eg
 
-global.wm = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍\n乂✰ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ✰乂';
-global.igfg = '乂✰ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ✰乂';
+global.wm = '乂SysSolutions乂';
+global.igfg = '乂SysSolutions乂';
 global.wait = '⌛ _Cargando..._\n▰▰▰▱▱▱▱▱▱';
 
 global.imagen1 = fs.readFileSync('./views/Menu.jpg');
